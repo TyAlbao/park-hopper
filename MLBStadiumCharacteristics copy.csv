@@ -1,0 +1,31 @@
+(Team) MLB Stadium,City Elevation (FT),AVG Temp (F),Humidity (Percent),Wind (MPH),Wind Direction,LF (FT),CF (FT),RF (FT),LFW (FT),CFW (FT),RFW (FT)
+(ARI) Chase Field,"1,100",99,30,5,Outward,330,407,335,7.5,25,7.5
+(ATL) Truist Park,304,82,67,7,Crosswind,335,400,330,11,15,15
+(BAL) Camden Yards,20,87,67,8,Outward,333,400,318,7,7,21
+(BOS) Fenway Park,20,87,63,5,Outward,310,390,302,37,18,3
+(CHC) Wrigley Field,600,80,60,9,Inward,355,400,353,15,11.5,15
+(CHW) Guaranteed Rate Field,594,83,70,12,Outward,330,400,335,8,8,8
+(CIN) Great American Ballpark,489,86,75,5,Outward,328,404,325,12,12,8
+(CLE) Progressive Field,600,80,55,8,Outward,325,410,325,19,9,9
+(COL) Coors Field,5200,88,31,8,Outward,347,415,350,8,8,17
+(DET) Comerica Park,600,83,68,10,Crosswind,345,420,330,7,9,8
+(HOU) Minute Maid Park,40,90,80,6,Neutral,315,406,326,21,8,7
+(KC) Kauffman Stadium,900,88,70,10,Crosswind,330,410,330,9,9,9
+(LAA) Angel Stadium,155,71,65,7,Crosswind,330,400,330,5,8,8
+(LAD) Dodgers Stadium,502,85,50,6,Outward,330,395,330,8,8,8
+(MIA) LoanDepot Park,20,85,80,8,Inward,344,407,335,9,12,9
+(MIL) America Family Field,597,80,72,10,Crosswind,344,400,345,8,8,8
+(MIN) Target Field,840,80,65,10,Crosswind,339,404,328,8,8,23
+(NYM) City Field,46,85,65,6,Outward,335,408,330,8,8,8
+(NYY) Yankee Stadium,55,85,68,3,Outward,318,408,314,8,8,8
+(PHI) Citizens Bank Park,30,86,67,9,Outward,329,401,330,13,6,13
+(PIT) PNC Park,700,84,70,7,Crosswind,325,399,320,6,8,21
+(OAK) Oakland Coliseum ,75,75,71,10,Crosswind,330,400,330,8,8,8
+(SD) Petco Park,16,72,74,6,Crosswind,334,396,322,7,7,10
+(SF) Oracle Park,52,65,19,10,Inward,339,399,309,8,8,25
+(SEA) T-Mobile Park,10,63,66,7,Crosswind,331,401,326,7,7,15
+(STL) Busch Stadium,436,88,67,5,Inward,336,400,335,8,8,8
+(TB) Tropicana Field,32,87,75,7,Inward,315,404,322,11,9,11
+(TEX) Globe Life Stadium,278,96,57,8,Crosswind,332,400,325,14,8,8
+(TOR) Rogers Centre,251,75,65,8,Crosswind,328,400,328,8,8,8
+(WAS) Nationals Park,19,90,72,8,Outward,336,402,335,8,8,12
