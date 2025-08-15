@@ -1,0 +1,5 @@
+year,age,player_EV,player_LA_pct,player_barrel_pct,player_pull_pct,player_hardhit_pct,player_BB_pct,player_K_pct,park_LF_dist,park_CF_dist,park_RF_dist,park_wallh_LF,park_wallh_CF,park_wallh_RF,park_HR_factor,park_xSLG_factor,park_xwOBA_factor,park_avg_temp,park_humidity,park_wind_dir,park_altitude,park_surface,target_xSLG_next_year
+2022,28,91.4,21.5,13.2,45.7,51.3,11.2,19.8,330,400,325,8,8,8,0.95,0.97,0.98,72,55,Out_to_CF,528,Grass,0.520
+2022,24,88.7,17.2,8.5,39.4,42.1,8.3,23.5,347,415,350,8,9,8,1.20,1.12,1.08,68,40,Out_to_LF,5200,Grass,0.570
+2021,31,92.8,14.8,12.4,36.7,48.5,9.7,21.4,335,408,330,7,8,9,1.05,1.03,1.01,70,60,Out_to_RF,105,Grass,0.510
+2021,26,90.1,19.3,9.8,42.5,46.2,10.5,20.1,310,395,300,10,8,11,0.85,0.90,0.88,78,50,Out_to_CF,20,Turf,0.460
